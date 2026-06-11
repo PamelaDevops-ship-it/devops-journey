@@ -9,3 +9,5 @@ Minha jornada de estudos para DevOps Junior
 ### 11/06/2026 - Linux
 - Acessei o Azure Cloud Shell com Bash pela primeira vez
 - Terminal Linux funcionando!
+- `pwd` — mostra em qual pasta você está
+- Resultado: `/home/pamela` — minha pasta pessoal no Linux
