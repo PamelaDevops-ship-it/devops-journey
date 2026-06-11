@@ -11,3 +11,6 @@ Minha jornada de estudos para DevOps Junior
 - Terminal Linux funcionando!
 - `pwd` — mostra em qual pasta você está
 - Resultado: `/home/pamela` — minha pasta pessoal no Linux
+
+- Obs.:
+- 💡 No Linux, evite espaços nos nomes de pastas e arquivos. Use - ou _ no lugar. Por isso estudos-linux e não estudos linux.
