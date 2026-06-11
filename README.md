@@ -1,4 +1,4 @@
-# devops-journey
+# AZURE DEVOPS - 2026
 Minha jornada de estudos para DevOps Junior
 ## 🚀 Minha Jornada DevOps
 
