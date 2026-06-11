@@ -12,5 +12,8 @@ Minha jornada de estudos para DevOps Junior
 - `pwd` — mostra em qual pasta você está
 - Resultado: `/home/pamela` — minha pasta pessoal no Linux
 
-- Obs.:
+### OBS.:
 - 💡 No Linux, evite espaços nos nomes de pastas e arquivos. Use - ou _ no lugar. Por isso estudos-linux e não estudos linux.
+- `ls` — lista o conteúdo da pasta atual
+- `mkdir` nome-da-pasta — cria uma nova pasta
+- Pastas aparecem em azul no terminal Linux
