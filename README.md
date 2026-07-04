@@ -17,3 +17,17 @@ Minha jornada de estudos para DevOps Junior
 - `ls` — lista o conteúdo da pasta atual
 - `mkdir` nome-da-pasta — cria uma nova pasta
 - Pastas aparecem em azul no terminal Linux
+
+### 04/07/2026 - Linux - Aprendi os comandos básicos de navegação e arquivos
+
+- `pwd` — mostra em qual pasta você está
+- `ls` — lista o conteúdo da pasta
+- `mkdir nome` — cria uma nova pasta
+- `cd nome` — entra em uma pasta
+- `cd` sozinho — volta para a pasta home
+- `touch nome` — cria um arquivo vazio
+- `echo "texto" > arquivo` — escreve texto dentro de um arquivo
+- `cat arquivo` — lê o conteúdo de um arquivo
+
+💡 Dica: pastas aparecem em azul no terminal, arquivos em branco.
+💡 Dica: sempre use `pwd` para saber onde você está antes de criar arquivos.
