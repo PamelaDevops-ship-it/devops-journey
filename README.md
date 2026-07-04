@@ -31,3 +31,11 @@ Minha jornada de estudos para DevOps Junior
 
 💡 Dica: pastas aparecem em azul no terminal, arquivos em branco.
 💡 Dica: sempre use `pwd` para saber onde você está antes de criar arquivos.
+
+### 04/07/2026 - Linux - Comandos básicos
+
+- `echo "texto" > arquivo` — escreve texto dentro de um arquivo
+- `cat arquivo` — lê o conteúdo de um arquivo
+- `bash` executa arquivos como programa — diferente do `cat` que só lê!
+
+💡 Aprendizado do dia: no terminal, a primeira palavra é sempre o comando.
