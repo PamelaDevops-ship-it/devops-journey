@@ -3,12 +3,12 @@ Minha jornada de estudos para DevOps Junior
 
 ## 🚀 Minha Jornada DevOps
 
-### 11/06/2026 - Linux - Primeiros passos
+### 11 de junho de 2026 - Linux - Primeiros passos
 - Confirmei que tenho WSL instalado com Ubuntu, Debian e Kali Linux
 - Acessei o Azure Cloud Shell com Bash pela primeira vez
 - Terminal Linux funcionando!
 
-### 04/07/2026 - Linux - Navegação e arquivos
+### 04 de julho de 2026 - Linux - Navegação e arquivos
 - `pwd` — mostra em qual pasta você está
 - `ls` — lista o conteúdo da pasta
 - `mkdir nome` — cria uma nova pasta
