@@ -38,4 +38,24 @@ Minha jornada de estudos para DevOps Junior
 - `cat arquivo` — lê o conteúdo de um arquivo
 - `bash` executa arquivos como programa — diferente do `cat` que só lê!
 
+- ### 04/07/2026 - Linux - Prática autônoma
+
+Hoje pratiquei os comandos Linux sozinha para medir meu aprendizado:
+
+- `pwd` — verificar em qual pasta estou
+- `mkdir nome` — criar pasta (erro esperado se já existir: "File exists")
+- `ls` — listar arquivos e pastas (pastas em azul, arquivos em branco)
+- `cd nome` — entrar em uma pasta
+- `cd` sozinho — volta para a pasta home
+- `echo "texto" > arquivo.txt` — criar arquivo com conteúdo
+- `cp ../arquivo.txt copia.txt` — copiar arquivo de outra pasta usando `..`
+
+💡 `..` significa "pasta acima" — como voltar um andar no elevador sem sair do prédio.
+💡 Sempre usar `pwd` antes de criar arquivos para saber onde estou.
+
+### Erros que aprendi hoje:
+- Digitar `c` em vez de `cd` → terminal não reconhece comando incompleto
+- Esquecer o `echo` antes do texto → terminal tenta executar o texto como programa
+- Usar `bash` em vez de `cat` → bash executa, cat lê!
+
 💡 Aprendizado do dia: no terminal, a primeira palavra é sempre o comando.
