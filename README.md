@@ -24,8 +24,15 @@ Minha jornada de estudos para DevOps Junior
 💡 `..` significa "pasta acima" — como voltar um andar no elevador.
 💡 No Linux, evite espaços em nomes de arquivos. Use `-` ou `_`.
 
-### Erros que aprendi:
-- Digitar `c` em vez de `cd` → terminal não reconhece comando incompleto
-- Esquecer o `echo` antes do texto → terminal tenta executar o texto como programa
-- Usar `bash` em vez de `cat` → bash executa, cat lê!
-- A primeira palavra no terminal é sempre o comando!
+### Erros que cometi e o que aprendi com eles:
+
+❌ Digitei `c` em vez de `cd`
+✅ O terminal não reconhece comandos incompletos — sempre escreva o comando completo!
+
+❌ Esqueci o `echo` antes do texto ao escrever em um arquivo
+✅ Sem o `echo`, o terminal tenta executar o texto como se fosse um programa
+
+❌ Usei `bash` em vez de `cat` para ler um arquivo
+✅ `bash` executa arquivos como programa — `cat` é quem lê o conteúdo!
+
+💡 Regra de ouro: a primeira palavra no terminal é sempre o comando.
